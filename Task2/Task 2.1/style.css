@@ -1,0 +1,37 @@
+.main{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.header__title{
+    color:red;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+.main__title{
+    text-align:center;
+    color:rgb(196, 10, 196);
+    font-family:Arial, Helvetica, sans-serif
+}
+.links{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif
+}
+.main__text{
+    font-family:Arial, Helvetica, sans-serif
+}
+.paragraph__title{
+    color:rgb(209, 209, 19);
+    font-family:Arial, Helvetica, sans-serif
+}
+.paragraph__content{
+    font-family:Arial, Helvetica, sans-serif
+}
+.img{
+    text-align:center;
+    width: 20%;
+    
+}
+.number{
+   text-align:left;
+}
